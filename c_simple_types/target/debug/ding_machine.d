@@ -1,0 +1,1 @@
+/home/codexnathan/Documents/rust_lang/c_simple_types/target/debug/ding_machine: /home/codexnathan/Documents/rust_lang/c_simple_types/src/lib.rs /home/codexnathan/Documents/rust_lang/c_simple_types/src/main.rs
