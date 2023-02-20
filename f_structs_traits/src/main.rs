@@ -14,6 +14,7 @@ trait Bite {
 // use a different field, though).
 //
 #[derive(Debug)] // include this line right before your struct definition
+
 struct Grapes {
     grapes_left: f32
 }
